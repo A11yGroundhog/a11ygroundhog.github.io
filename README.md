@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Subject Apps
 
 
@@ -73,6 +70,11 @@ Syntax highlighted code block
 | L15 | BudgetPlanner                             | com.colpit.diamondcoming.isavemoney                  |    1000000 |  4.4 | Finance       |
 | L16 | TheClock                                  | hdesign.theclock                                     |    1000000 |  4.4 | Productivity  |
 | L17 | BillReminder                              | com.aa3.easybillsreminder                            |     100000 |  4.5 | Finance       |
+
+
+```markdown
+Syntax highlighted code block
+
 
 ## Header 2
 ### Header 3
