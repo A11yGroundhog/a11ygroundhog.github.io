@@ -1,14 +1,102 @@
-## Welcome to GitHub Pages
+## Groundhog: An Automated Accessibility Crawler for Mobile Apps
 
-You can use the [editor on GitHub](https://github.com/A11yGroundhog/a11ygroundhog.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### A few examples
+All gifs are created by Groundhog. The left and right gif shows how an action is executed by TalkBack and Touch Proxies respectively.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Budget Planner (Actionable Issue)
+<table>
+<tr>
+  <td>
+    <img src="/res/Budget_TB.gif" alt="BudgetPlanner by TalkBack" width="150"/>
+  </td>
+  <td>
+    <img src="/res/Budget_Touch.gif" alt="BudgetPlanner by Touch" width="150"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    TalkBack
+  </td>
+  <td>
+    Touch
+  </td>
+</tr>
+</table>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Facebook (Locatable Issue)
+<table>
+<tr>
+  <td>
+    <img src="/res/Facebook_TB.gif" alt="Facebook by TalkBack" width="150"/>
+  </td>
+  <td>
+    <img src="/res/Facebook_Touch.gif" alt="Facebook by Touch" width="150"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    TalkBack
+  </td>
+  <td>
+    Touch
+  </td>
+</tr>
+</table>
 
-# Subject Apps
+
+
+
+#### Bible (Directional Locatable Issue)
+<table>
+<tr>
+  <td>
+    <img src="/res/Bible_TB.gif" alt="Bible by TalkBack" width="150"/>
+  </td>
+  <td>
+    <img src="/res/Bible_Touch.gif" alt="Bible by Touch" width="150"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    TalkBack
+  </td>
+  <td>
+    Touch
+  </td>
+</tr>
+</table>
+
+
+
+#### YONO (Touch Locatable Issue)
+
+<table>
+<tr>
+  <td>
+    <img src="/res/YONO_TB.gif" alt="YONO by TalkBack" width="150"/>
+  </td>
+  <td>
+    <img src="/res/YONO_Touch.gif" alt="YONO by Touch" width="150"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    TalkBack
+  </td>
+  <td>
+    Touch
+  </td>
+</tr>
+</table>
+
+
+
+<!-- #### MicrosoftTeams (False Positive Actionable Issue)
+<img src="/res/Facebook_TB.gif" alt="MicrosoftTeams by TalkBack" width="150"/>
+<img src="/res/Facebook_Touch.gif" alt="MicrosoftTeams by Touch" width="150"/> -->
+
+### Subject Apps
 
 
 | Id  | App Name                                  | Package Name                                         | Installs   | Rate | Category      |
@@ -71,7 +159,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 | L16 | TheClock                                  | hdesign.theclock                                     |    1000000 |  4.4 | Productivity  |
 | L17 | BillReminder                              | com.aa3.easybillsreminder                            |     100000 |  4.5 | Finance       |
 
-
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -98,4 +186,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
