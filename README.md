@@ -1,5 +1,8 @@
 ## Groundhog: An Automated Accessibility Crawler for Mobile Apps
 
+### Code
+The anonymized code of Groundhog can be found [here](https://github.com/A11yGroundhog/a11ygroundhog.github.io/tree/main/Code). The list of all subject apps can be found below (after examples).
+
 ### A few examples
 All gifs are created by Groundhog. The left and right gif shows how an action is executed by TalkBack and Touch Proxies respectively.
 
